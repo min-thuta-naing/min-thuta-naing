@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 learning Machine learning <br>💼 looking for an internship <br>🎢 making projects related to usability and user experience 
+👨🏻‍💻 currently learning Machine learning <br>💼 looking for an internship for my last semester <br>🎢 my senior project is related to usability and user experience 
 
 
 ## 🌐 Socials:
